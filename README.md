@@ -1,1 +1,1 @@
-# ufo_sightings_js
+Here in a fictional scenario, I was given a semi-large amount of data on UFO sightings that needed to have an option to be filtered. Using java script, html and css, and database information saved in a java script file, the task of compiling the data into a table on a web page, then taking user input of a certain date, then returns specific sightings for the inputted date.
